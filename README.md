@@ -29,7 +29,7 @@ https://github.com/felshow/ViewCep
 1. Clone o repositório:
    ```bash
    git clone https://github.com/felshow/ViewCep
-   cd cd BackEnd
+   cd BackEnd
 ## Para rodar o servidor back end: 
 1. composer install
 2. php artisan serve
