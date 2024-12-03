@@ -15,7 +15,7 @@ Este projeto consiste em uma aplicação web para consulta de CEPs, utilizando u
 - Exibição dos dados do CEP em uma tabela
 - Mensagens de erro amigáveis
 - Interface estilizada e responsiva
-
+https://github.com/felshow/ViewCep
 ## Pré-requisitos
 
 - PHP 7.4 ou superior
@@ -28,8 +28,8 @@ Este projeto consiste em uma aplicação web para consulta de CEPs, utilizando u
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/felshow/ViewCep
+   cd cd BackEnd
 ## Para rodar o servidor back end: 
 1. composer install
 2. php artisan serve
